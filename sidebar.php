@@ -79,7 +79,7 @@
             </a>
           </li>
           <li>
-            <a href="./cpanel.php">
+            <a href="./index.php">
               <i class="now-ui-icons ui-1_lock-circle-open"></i>
               <p>Admin Login</p>
             </a>
